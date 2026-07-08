@@ -1,0 +1,331 @@
+Shop,Category,Drink,Current Qty,LY Qty,Qty Change,Qty Change %,Current Revenue,LY Revenue,Revenue Change,Revenue Change %
+Carlow,Acai bowls & Smoothies,Classic acai,1286.0,1286.0,0.0,0.0,11252.23,11019.61,232.62,0.0211
+Carlow,Acai bowls & Smoothies,FruitNinja,0.0,6.0,-6.0,-1.0,0.0,48.0,-48.0,-1.0
+Carlow,Acai bowls & Smoothies,MangoLoco,0.0,181.0,-181.0,-1.0,0.0,1609.55,-1609.55,-1.0
+Carlow,Coffee & more,Americano,61.0,71.0,-10.0,-0.1408,212.62,248.5,-35.88,-0.1444
+Carlow,Coffee & more,Bueno iced latte,248.0,274.0,-26.0,-0.0949,1359.47,1435.62,-76.15,-0.053
+Carlow,Coffee & more,Cappuccino,86.0,103.0,-17.0,-0.165,329.96,378.58,-48.62,-0.1284
+Carlow,Coffee & more,Chai latte,0.0,4.0,-4.0,-1.0,0.0,18.6,-18.6,-1.0
+Carlow,Coffee & more,Dirty Chai,0.0,4.0,-4.0,-1.0,0.0,21.8,-21.8,-1.0
+Carlow,Coffee & more,Double Espresso,4.0,0.0,4.0,,14.0,0.0,14.0,
+Carlow,Coffee & more,Espresso,5.0,13.0,-8.0,-0.6154,12.5,30.63,-18.13,-0.5919
+Carlow,Coffee & more,Flat white,24.0,20.0,4.0,0.2,90.6,68.2,22.4,0.3284
+Carlow,Coffee & more,Frappé,0.0,4.0,-4.0,-1.0,0.0,23.9,-23.9,-1.0
+Carlow,Coffee & more,Hot Choc,3.0,2.0,1.0,0.5,12.15,7.0,5.15,0.7357
+Carlow,Coffee & more,Iced Americano,4.0,6.0,-2.0,-0.3333,15.41,30.0,-14.59,-0.4863
+Carlow,Coffee & more,Iced Latte,113.0,0.0,113.0,,506.33,0.0,506.33,
+Carlow,Coffee & more,Iced Vanilla cold cap,0.0,27.0,-27.0,-1.0,0.0,142.34,-142.34,-1.0
+Carlow,Coffee & more,Iced caramel latte,423.0,206.0,217.0,1.0534,2275.83,1092.0,1183.83,1.0841
+Carlow,Coffee & more,Iced latte (1),0.0,53.0,-53.0,-1.0,0.0,286.01,-286.01,-1.0
+Carlow,Coffee & more,Latte,108.0,135.0,-27.0,-0.2,452.44,497.03,-44.59,-0.0897
+Carlow,Coffee & more,"Oat, Coconut Milk",1.0,4.0,-3.0,-0.75,0.49,1.46,-0.97,-0.6644
+Carlow,Coffee & more,OrangeEspresso,0.0,3.0,-3.0,-1.0,0.0,10.5,-10.5,-1.0
+Carlow,Coffee & more,Pistachio latte,13.0,138.0,-125.0,-0.9058,65.59,715.95,-650.36,-0.9084
+Carlow,Coffee & more,Tea,24.0,30.0,-6.0,-0.2,60.0,75.0,-15.0,-0.2
+Carlow,Coffee & more,Toasted brown sugar,225.0,108.0,117.0,1.0833,1025.15,568.8,456.35,0.8023
+Carlow,Coffee & more,White chocolate mocha,245.0,133.0,112.0,0.8421,1303.2,675.78,627.42,0.9284
+Carlow,Fruit tea,Apple Soda,23.0,59.0,-36.0,-0.6102,99.46,233.3,-133.84,-0.5737
+Carlow,Fruit tea,Apple lemonade tea,103.0,30.0,73.0,2.4333,424.47,116.11,308.36,2.6558
+Carlow,Fruit tea,Lemonade no boba medium,0.0,1.0,-1.0,-1.0,0.0,3.3,-3.3,-1.0
+Carlow,Fruit tea,Mango Iced Teas,0.0,1.0,-1.0,-1.0,0.0,3.05,-3.05,-1.0
+Carlow,Fruit tea,Mango Passion Lemonade,729.0,43.0,686.0,15.9535,3112.86,164.6,2948.26,17.9117
+Carlow,Fruit tea,Mango Soda,2.0,0.0,2.0,,7.56,0.0,7.56,
+Carlow,Fruit tea,Mango Soda (NEW),0.0,1.0,-1.0,-1.0,0.0,3.78,-3.78,-1.0
+Carlow,Fruit tea,Peach iced tea,0.0,1.0,-1.0,-1.0,0.0,3.7,-3.7,-1.0
+Carlow,Fruit tea,Strawberry Lemonade,354.0,313.0,41.0,0.131,1479.17,1249.89,229.28,0.1834
+Carlow,Fruit tea,Strawberry Nojito,35.0,0.0,35.0,,151.84,0.0,151.84,
+Carlow,Fruit tea,Strawberry Passion lemonade,166.0,269.0,-103.0,-0.3829,713.41,1109.98,-396.57,-0.3573
+Carlow,Fruit tea,Watermelon Lemonade,312.0,195.0,117.0,0.6,1314.05,762.01,552.04,0.7245
+Carlow,Fruit tea,mango passion Fruit Tea,0.0,3.0,-3.0,-1.0,0.0,14.85,-14.85,-1.0
+Carlow,Milk tea,Bueno Bliss Boba,287.0,53.0,234.0,4.4151,1558.16,266.0,1292.16,4.8577
+Carlow,Milk tea,Earl Grey,24.0,46.0,-22.0,-0.4783,133.24,237.0,-103.76,-0.4378
+Carlow,Milk tea,Honey Mango Latte,0.0,47.0,-47.0,-1.0,0.0,240.29,-240.29,-1.0
+Carlow,Milk tea,Honeydew MT,0.0,2.0,-2.0,-1.0,0.0,9.3,-9.3,-1.0
+Carlow,Milk tea,Mango Milk tea,0.0,9.0,-9.0,-1.0,0.0,47.25,-47.25,-1.0
+Carlow,Milk tea,Matcha Latte,25.0,19.0,6.0,0.3158,123.67,95.07,28.6,0.3008
+Carlow,Milk tea,Matcha Latte (no boba),0.0,168.0,-168.0,-1.0,0.0,852.51,-852.51,-1.0
+Carlow,Milk tea,Oat matcha latte HOT (no boba),0.0,3.0,-3.0,-1.0,0.0,13.34,-13.34,-1.0
+Carlow,Milk tea,Original milk tea,256.0,121.0,135.0,1.1157,1383.92,626.4,757.52,1.2093
+Carlow,Milk tea,Pistachio Crunch Latte,0.0,10.0,-10.0,-1.0,0.0,54.5,-54.5,-1.0
+Carlow,Milk tea,Pistachio Crunch Matcha,12.0,0.0,12.0,,66.7,0.0,66.7,
+Carlow,Milk tea,Strawberry Sunset,241.0,118.0,123.0,1.0424,1312.45,578.0,734.45,1.2707
+Carlow,Milk tea,Strawberry milk tea,36.0,8.0,28.0,3.5,177.65,41.6,136.05,3.2704
+Carlow,Milk tea,Taro milk tea,174.0,84.0,90.0,1.0714,957.93,418.19,539.74,1.2907
+Carlow,Milk tea,Tiger Milk,182.0,94.0,88.0,0.9362,1003.87,493.61,510.26,1.0337
+Carlow,Milk tea,Vanilla Matcha,404.0,0.0,404.0,,2366.91,0.0,2366.91,
+Carlow,Namo Plus,Starboy,595.0,368.0,227.0,0.6168,2454.64,1481.96,972.68,0.6563
+Carlow,Namo Plus Extras,3€ Coffee Deal,0.0,2.0,-2.0,-1.0,0.0,7.2,-7.2,-1.0
+Carlow,Namo Plus Extras,Large,1.0,0.0,1.0,,0.9,0.0,0.9,
+Carlow,Smoothies,Dream,0.0,51.0,-51.0,-1.0,0.0,306.15,-306.15,-1.0
+Carlow,Smoothies,Mango Passionfruit smoothie,285.0,97.0,188.0,1.9381,1619.82,532.22,1087.6,2.0435
+Carlow,Smoothies,Strawberry Dream,278.0,0.0,278.0,,1593.11,0.0,1593.11,
+Carlow,Specials,Cinema deal (mon - wed),3.0,21.0,-18.0,-0.8571,42.29,301.69,-259.4,-0.8598
+Carlow,Specials,Enchiladas,0.0,65.0,-65.0,-1.0,0.0,656.71,-656.71,-1.0
+Carlow,Specials,Loaded Chipotle Wedges,127.0,148.0,-21.0,-0.1419,1527.37,1505.44,21.93,0.0146
+Carlow,Specials,Passionfruit Soda,0.0,1.0,-1.0,-1.0,0.0,3.78,-3.78,-1.0
+Carlow,Specials,Pink velvet (coffee),0.0,22.0,-22.0,-1.0,0.0,115.85,-115.85,-1.0
+Carlow,Specials,Pistachio Crunch Latte,1.0,0.0,1.0,,5.8,0.0,5.8,
+Carlow,Specials,Piñalada,3.0,36.0,-33.0,-0.9167,14.54,182.88,-168.34,-0.9205
+Carlow,Specials,Quesadilla,277.0,267.0,10.0,0.0375,3163.44,2736.91,426.53,0.1558
+Carlow,Specials,Straw Matcha,0.0,15.0,-15.0,-1.0,0.0,74.92,-74.92,-1.0
+Carlow,Specials,Straw Matcha (excl boba),0.0,73.0,-73.0,-1.0,0.0,385.16,-385.16,-1.0
+Carlow,Specials,Strawberry Matcha,23.0,0.0,23.0,,128.53,0.0,128.53,
+Carlow,Specials,Strawberry Oat Matcha,252.0,0.0,252.0,,1425.73,0.0,1425.73,
+Carlow,Specials,Strawberry red velvet milk t,0.0,15.0,-15.0,-1.0,0.0,59.46,-59.46,-1.0
+Carlow,Specials,White Choc Matcha,153.0,0.0,153.0,,907.72,0.0,907.72,
+Carlow,Specials,strawberry pinalada,0.0,41.0,-41.0,-1.0,0.0,212.1,-212.1,-1.0
+Clonmel,Acai bowls & Smoothies,Classic acai,1257.0,1844.0,-587.0,-0.3183,11094.07,15744.93,-4650.86,-0.2954
+Clonmel,Coffee & more,3€ Coffe,0.0,35.0,-35.0,-1.0,0.0,104.25,-104.25,-1.0
+Clonmel,Coffee & more,3€ Coffee,8.0,0.0,8.0,,24.0,0.0,24.0,
+Clonmel,Coffee & more,Americano,68.0,59.0,9.0,0.1525,239.2,206.5,32.7,0.1584
+Clonmel,Coffee & more,Bueno iced latte,169.0,193.0,-24.0,-0.1244,967.65,996.08,-28.43,-0.0285
+Clonmel,Coffee & more,Cappuccino,123.0,124.0,-1.0,-0.0081,512.87,454.03,58.84,0.1296
+Clonmel,Coffee & more,Chai latte,2.0,1.0,1.0,1.0,9.3,4.65,4.65,1.0
+Clonmel,Coffee & more,Cinnamel Latte,0.0,2.0,-2.0,-1.0,0.0,9.3,-9.3,-1.0
+Clonmel,Coffee & more,Espresso,2.0,11.0,-9.0,-0.8182,5.0,27.5,-22.5,-0.8182
+Clonmel,Coffee & more,Flat white,39.0,19.0,20.0,1.0526,152.51,64.85,87.66,1.3517
+Clonmel,Coffee & more,Hot Choc,5.0,7.0,-2.0,-0.2857,20.85,24.5,-3.65,-0.149
+Clonmel,Coffee & more,Iced Americano,8.0,7.0,1.0,0.1429,27.99,34.7,-6.71,-0.1934
+Clonmel,Coffee & more,Iced Latte,45.0,0.0,45.0,,205.73,0.0,205.73,
+Clonmel,Coffee & more,Iced Vanilla cold cap,0.0,16.0,-16.0,-1.0,0.0,79.4,-79.4,-1.0
+Clonmel,Coffee & more,Iced caramel latte,280.0,178.0,102.0,0.573,1564.65,904.09,660.56,0.7306
+Clonmel,Coffee & more,Iced latte (1),0.0,2.0,-2.0,-1.0,0.0,11.2,-11.2,-1.0
+Clonmel,Coffee & more,Latte,92.0,100.0,-8.0,-0.08,392.73,376.74,15.99,0.0424
+Clonmel,Coffee & more,Pistachio latte,28.0,36.0,-8.0,-0.2222,162.48,183.36,-20.88,-0.1139
+Clonmel,Coffee & more,Tea,17.0,0.0,17.0,,43.1,0.0,43.1,
+Clonmel,Coffee & more,Toasted brown sugar,44.0,37.0,7.0,0.1892,242.0,192.3,49.7,0.2585
+Clonmel,Coffee & more,White chocolate mocha,125.0,89.0,36.0,0.4045,698.57,444.94,253.63,0.57
+Clonmel,Fruit tea,Apple Soda,11.0,3.0,8.0,2.6667,47.89,12.0,35.89,2.9908
+Clonmel,Fruit tea,Apple lemonade tea,51.0,110.0,-59.0,-0.5364,210.82,430.29,-219.47,-0.5101
+Clonmel,Fruit tea,Lemonade no boba medium,0.0,17.0,-17.0,-1.0,0.0,56.16,-56.16,-1.0
+Clonmel,Fruit tea,Mango Iced Teas,0.0,14.0,-14.0,-1.0,0.0,42.7,-42.7,-1.0
+Clonmel,Fruit tea,Mango Passion Lemonade,339.0,93.0,246.0,2.6452,1458.76,367.15,1091.61,2.9732
+Clonmel,Fruit tea,Mango Soda,1.0,0.0,1.0,,3.78,0.0,3.78,
+Clonmel,Fruit tea,Mango Soda (NEW),0.0,58.0,-58.0,-1.0,0.0,228.73,-228.73,-1.0
+Clonmel,Fruit tea,Passion black tea,0.0,4.0,-4.0,-1.0,0.0,14.0,-14.0,-1.0
+Clonmel,Fruit tea,Strawberry Lemonade,231.0,257.0,-26.0,-0.1012,978.61,1016.06,-37.45,-0.0369
+Clonmel,Fruit tea,Strawberry Nojito,41.0,0.0,41.0,,182.61,0.0,182.61,
+Clonmel,Fruit tea,Strawberry Passion lemonade,59.0,169.0,-110.0,-0.6509,267.46,698.57,-431.11,-0.6171
+Clonmel,Fruit tea,Watermelon Lemonade,236.0,172.0,64.0,0.3721,998.57,679.6,318.97,0.4693
+Clonmel,Fruit tea,mango passion Fruit Tea,0.0,14.0,-14.0,-1.0,0.0,67.8,-67.8,-1.0
+Clonmel,Milk tea,Bueno Bliss Boba,200.0,0.0,200.0,,1084.9,0.0,1084.9,
+Clonmel,Milk tea,Honey Mango Latte,0.0,15.0,-15.0,-1.0,0.0,72.19,-72.19,-1.0
+Clonmel,Milk tea,Matcha Latte,6.0,34.0,-28.0,-0.8235,30.9,167.22,-136.32,-0.8152
+Clonmel,Milk tea,Matcha Latte (no boba),0.0,183.0,-183.0,-1.0,0.0,900.92,-900.92,-1.0
+Clonmel,Milk tea,Oat matcha latte HOT (no boba),0.0,3.0,-3.0,-1.0,0.0,14.55,-14.55,-1.0
+Clonmel,Milk tea,Original milk tea,163.0,125.0,38.0,0.304,900.62,609.42,291.2,0.4778
+Clonmel,Milk tea,Pistachio Crunch Latte,0.0,3.0,-3.0,-1.0,0.0,15.45,-15.45,-1.0
+Clonmel,Milk tea,Pistachio Crunch Matcha,23.0,0.0,23.0,,145.42,0.0,145.42,
+Clonmel,Milk tea,Strawberry Sunset,211.0,165.0,46.0,0.2788,1194.83,849.3,345.53,0.4068
+Clonmel,Milk tea,Strawberry milk tea,31.0,26.0,5.0,0.1923,162.86,128.9,33.96,0.2635
+Clonmel,Milk tea,Taro milk tea,86.0,82.0,4.0,0.0488,488.95,414.8,74.15,0.1788
+Clonmel,Milk tea,Tiger Milk,154.0,173.0,-19.0,-0.1098,862.99,841.41,21.58,0.0256
+Clonmel,Milk tea,Vanilla Matcha,110.0,0.0,110.0,,605.91,0.0,605.91,
+Clonmel,Namo Plus,Starboy,292.0,337.0,-45.0,-0.1335,1211.49,1333.05,-121.56,-0.0912
+Clonmel,Smoothies,Dream,0.0,11.0,-11.0,-1.0,0.0,64.51,-64.51,-1.0
+Clonmel,Smoothies,Mango Passionfruit smoothie,105.0,212.0,-107.0,-0.5047,594.72,1267.6,-672.88,-0.5308
+Clonmel,Smoothies,Strawberry Dream,202.0,0.0,202.0,,1155.0,0.0,1155.0,
+Clonmel,Specials,Cinema deal (mon - wed),0.0,17.0,-17.0,-1.0,0.0,254.57,-254.57,-1.0
+Clonmel,Specials,Enchiladas,0.0,48.0,-48.0,-1.0,0.0,484.07,-484.07,-1.0
+Clonmel,Specials,Loaded Chipotle Wedges,53.0,58.0,-5.0,-0.0862,618.51,563.66,54.85,0.0973
+Clonmel,Specials,Pink velvet (coffee),0.0,2.0,-2.0,-1.0,0.0,10.7,-10.7,-1.0
+Clonmel,Specials,Piñalada,3.0,12.0,-9.0,-0.75,17.35,63.0,-45.65,-0.7246
+Clonmel,Specials,Quesadilla,121.0,150.0,-29.0,-0.1933,1383.0,1533.96,-150.96,-0.0984
+Clonmel,Specials,Straw Matcha,0.0,4.0,-4.0,-1.0,0.0,19.9,-19.9,-1.0
+Clonmel,Specials,Straw Matcha (excl boba),0.0,107.0,-107.0,-1.0,0.0,537.35,-537.35,-1.0
+Clonmel,Specials,Strawberry Matcha,22.0,0.0,22.0,,129.35,0.0,129.35,
+Clonmel,Specials,Strawberry Oat Matcha,178.0,0.0,178.0,,1001.4,0.0,1001.4,
+Clonmel,Specials,Strawberry red velvet milk t,0.0,1.0,-1.0,-1.0,0.0,3.48,-3.48,-1.0
+Clonmel,Specials,White Choc Matcha,184.0,0.0,184.0,,1022.61,0.0,1022.61,
+Clonmel,Specials,strawberry pinalada,0.0,76.0,-76.0,-1.0,0.0,393.9,-393.9,-1.0
+Food Trailer,Acai bowls & Smoothies,Classic acai,0.0,64.0,-64.0,-1.0,0.0,535.5,-535.5,-1.0
+Kilkenny Mexican,Fruit tea,Strawberry Lemonade,0.0,1.0,-1.0,-1.0,0.0,3.74,-3.74,-1.0
+Kilkenny Mexican,Milk tea,Taro milk tea,1.0,0.0,1.0,,5.05,0.0,5.05,
+Kilkenny Mexican,Namo Plus,Starboy,3.0,0.0,3.0,,13.9,0.0,13.9,
+Kilkenny Mexican,Specials,Cinema deal (mon - wed),8.0,8.0,0.0,0.0,120.49,114.38,6.11,0.0534
+Kilkenny Mexican,Specials,Enchiladas,0.0,24.0,-24.0,-1.0,0.0,248.02,-248.02,-1.0
+Kilkenny Mexican,Specials,Loaded Chipotle Wedges,77.0,97.0,-20.0,-0.2062,961.01,994.37,-33.36,-0.0335
+Kilkenny Mexican,Specials,Quesadilla,173.0,203.0,-30.0,-0.1478,2008.8,2177.98,-169.18,-0.0777
+Kilkenny Plus,Acai bowls & Smoothies,Classic acai,1435.0,680.0,755.0,1.1103,12256.05,5795.92,6460.13,1.1146
+Kilkenny Plus,Acai bowls & Smoothies,FruitNinja,0.0,5.0,-5.0,-1.0,0.0,40.0,-40.0,-1.0
+Kilkenny Plus,Acai bowls & Smoothies,MangoLoco,39.0,132.0,-93.0,-0.7045,332.7,1158.79,-826.09,-0.7129
+Kilkenny Plus,Acai bowls & Smoothies,Medium Acai Bowl,165.0,1462.0,-1297.0,-0.8871,1387.47,11797.35,-10409.88,-0.8824
+Kilkenny Plus,Acai bowls & Smoothies,Small Acai Bowl,0.0,204.0,-204.0,-1.0,0.0,1192.55,-1192.55,-1.0
+Kilkenny Plus,Coffee & more,Americano,28.0,34.0,-6.0,-0.1765,88.1,115.5,-27.4,-0.2372
+Kilkenny Plus,Coffee & more,Bueno iced latte,210.0,172.0,38.0,0.2209,1064.89,881.89,183.0,0.2075
+Kilkenny Plus,Coffee & more,Cappuccino,37.0,47.0,-10.0,-0.2128,145.48,172.15,-26.67,-0.1549
+Kilkenny Plus,Coffee & more,Chai latte,0.0,3.0,-3.0,-1.0,0.0,13.95,-13.95,-1.0
+Kilkenny Plus,Coffee & more,Cinnamel Latte,0.0,5.0,-5.0,-1.0,0.0,20.4,-20.4,-1.0
+Kilkenny Plus,Coffee & more,Dirty Chai,0.0,2.0,-2.0,-1.0,0.0,9.39,-9.39,-1.0
+Kilkenny Plus,Coffee & more,Espresso,0.0,29.0,-29.0,-1.0,0.0,71.88,-71.88,-1.0
+Kilkenny Plus,Coffee & more,Flat white,12.0,12.0,0.0,0.0,46.8,36.85,9.95,0.27
+Kilkenny Plus,Coffee & more,Frappé,0.0,24.0,-24.0,-1.0,0.0,133.5,-133.5,-1.0
+Kilkenny Plus,Coffee & more,Hot Choc,2.0,6.0,-4.0,-0.6667,8.1,21.0,-12.9,-0.6143
+Kilkenny Plus,Coffee & more,Iced Americano,3.0,20.0,-17.0,-0.85,10.23,96.5,-86.27,-0.894
+Kilkenny Plus,Coffee & more,Iced Latte,55.0,0.0,55.0,,200.89,0.0,200.89,
+Kilkenny Plus,Coffee & more,Iced Vanilla cold cap,0.0,17.0,-17.0,-1.0,0.0,86.15,-86.15,-1.0
+Kilkenny Plus,Coffee & more,Iced caramel latte,234.0,145.0,89.0,0.6138,1188.85,727.85,461.0,0.6334
+Kilkenny Plus,Coffee & more,Iced latte (1),0.0,26.0,-26.0,-1.0,0.0,127.9,-127.9,-1.0
+Kilkenny Plus,Coffee & more,Latte,36.0,70.0,-34.0,-0.4857,110.2,277.73,-167.53,-0.6032
+Kilkenny Plus,Coffee & more,"Oat, Coconut Milk",1.0,1.0,0.0,0.0,0.49,0.37,0.12,0.3243
+Kilkenny Plus,Coffee & more,OrangeEspresso,2.0,0.0,2.0,,0.0,0.0,0.0,
+Kilkenny Plus,Coffee & more,Pistachio latte,3.0,31.0,-28.0,-0.9032,9.7,150.9,-141.2,-0.9357
+Kilkenny Plus,Coffee & more,Tea,2.0,0.0,2.0,,5.0,0.0,5.0,
+Kilkenny Plus,Coffee & more,Toasted brown sugar,102.0,83.0,19.0,0.2289,567.41,426.29,141.12,0.331
+Kilkenny Plus,Coffee & more,White chocolate mocha,70.0,35.0,35.0,1.0,324.2,168.15,156.05,0.928
+Kilkenny Plus,Fruit tea,Apple Soda,16.0,116.0,-100.0,-0.8621,65.62,446.88,-381.26,-0.8532
+Kilkenny Plus,Fruit tea,Apple lemonade tea,121.0,51.0,70.0,1.3725,486.77,201.89,284.88,1.4111
+Kilkenny Plus,Fruit tea,Lemonade no boba medium,0.0,102.0,-102.0,-1.0,0.0,342.89,-342.89,-1.0
+Kilkenny Plus,Fruit tea,Mango Iced Teas,0.0,52.0,-52.0,-1.0,0.0,159.83,-159.83,-1.0
+Kilkenny Plus,Fruit tea,Mango Passion Lemonade,521.0,44.0,477.0,10.8409,2168.02,178.05,1989.97,11.1765
+Kilkenny Plus,Fruit tea,Mango Soda,3.0,0.0,3.0,,12.11,0.0,12.11,
+Kilkenny Plus,Fruit tea,Mango Soda (NEW),0.0,24.0,-24.0,-1.0,0.0,93.64,-93.64,-1.0
+Kilkenny Plus,Fruit tea,Passion black tea,0.0,3.0,-3.0,-1.0,0.0,11.96,-11.96,-1.0
+Kilkenny Plus,Fruit tea,Passionfruit IT,0.0,3.0,-3.0,-1.0,0.0,11.34,-11.34,-1.0
+Kilkenny Plus,Fruit tea,Peach iced tea,0.0,28.0,-28.0,-1.0,0.0,105.39,-105.39,-1.0
+Kilkenny Plus,Fruit tea,Strawberry Lemonade,585.0,644.0,-59.0,-0.0916,2401.53,2512.6,-111.07,-0.0442
+Kilkenny Plus,Fruit tea,Strawberry Lemonade (Voided),2.0,0.0,2.0,,0.0,0.0,0.0,
+Kilkenny Plus,Fruit tea,Strawberry Nojito,11.0,0.0,11.0,,33.41,0.0,33.41,
+Kilkenny Plus,Fruit tea,Strawberry Passion lemonade,176.0,330.0,-154.0,-0.4667,766.22,1360.82,-594.6,-0.4369
+Kilkenny Plus,Fruit tea,Strawberry Passion lemonade (Voided),1.0,0.0,1.0,,0.0,0.0,0.0,
+Kilkenny Plus,Fruit tea,Watermelon Lemonade,274.0,279.0,-5.0,-0.0179,1114.31,1062.7,51.61,0.0486
+Kilkenny Plus,Fruit tea,Watermelon Lemonade (Voided),2.0,0.0,2.0,,0.0,0.0,0.0,
+Kilkenny Plus,Fruit tea,mango passion Fruit Tea,0.0,14.0,-14.0,-1.0,0.0,73.2,-73.2,-1.0
+Kilkenny Plus,Milk tea,Bueno Bliss Boba,267.0,94.0,173.0,1.8404,1428.3,467.3,961.0,2.0565
+Kilkenny Plus,Milk tea,Honey Mango Latte,0.0,83.0,-83.0,-1.0,0.0,402.3,-402.3,-1.0
+Kilkenny Plus,Milk tea,HoneyDew Milk Tea,37.0,0.0,37.0,,191.31,0.0,191.31,
+Kilkenny Plus,Milk tea,Honeydew MT,0.0,31.0,-31.0,-1.0,0.0,158.55,-158.55,-1.0
+Kilkenny Plus,Milk tea,Mango Milk Tea,2.0,28.0,-26.0,-0.9286,11.4,93.33,-81.93,-0.8779
+Kilkenny Plus,Milk tea,Mango Milk tea,0.0,5.0,-5.0,-1.0,0.0,23.25,-23.25,-1.0
+Kilkenny Plus,Milk tea,Matcha Latte,80.0,33.0,47.0,1.4242,363.86,163.05,200.81,1.2316
+Kilkenny Plus,Milk tea,Matcha Latte (no boba),0.0,222.0,-222.0,-1.0,0.0,999.73,-999.73,-1.0
+Kilkenny Plus,Milk tea,Oat matcha latte HOT (no boba),0.0,1.0,-1.0,-1.0,0.0,4.85,-4.85,-1.0
+Kilkenny Plus,Milk tea,Original milk tea,328.0,319.0,9.0,0.0282,1814.77,1604.1,210.67,0.1313
+Kilkenny Plus,Milk tea,Pistachio Crunch Latte,0.0,8.0,-8.0,-1.0,0.0,42.4,-42.4,-1.0
+Kilkenny Plus,Milk tea,Pistachio Crunch Matcha,19.0,0.0,19.0,,100.41,0.0,100.41,
+Kilkenny Plus,Milk tea,Strawberry Sunset,456.0,315.0,141.0,0.4476,2465.55,1565.6,899.95,0.5748
+Kilkenny Plus,Milk tea,Strawberry milk tea,68.0,17.0,51.0,3.0,338.1,84.05,254.05,3.0226
+Kilkenny Plus,Milk tea,Taro milk tea,209.0,163.0,46.0,0.2822,1126.03,775.6,350.43,0.4518
+Kilkenny Plus,Milk tea,Taro milk tea (Voided),1.0,0.0,1.0,,0.0,0.0,0.0,
+Kilkenny Plus,Milk tea,Tiger Milk,249.0,306.0,-57.0,-0.1863,1382.52,1553.0,-170.48,-0.1098
+Kilkenny Plus,Milk tea,Vanilla Matcha,169.0,0.0,169.0,,888.4,0.0,888.4,
+Kilkenny Plus,Namo Plus,Cinnamon Bun Latte,0.0,6.0,-6.0,-1.0,0.0,27.0,-27.0,-1.0
+Kilkenny Plus,Namo Plus,Starboy,959.0,784.0,175.0,0.2232,3883.0,3054.46,828.54,0.2713
+Kilkenny Plus,Namo Plus,Starboy (Voided),1.0,0.0,1.0,,0.0,0.0,0.0,
+Kilkenny Plus,Smoothies,Dragonfruit Strawberry,4.0,9.0,-5.0,-0.5556,23.0,55.35,-32.35,-0.5845
+Kilkenny Plus,Smoothies,Dream,0.0,143.0,-143.0,-1.0,0.0,836.21,-836.21,-1.0
+Kilkenny Plus,Smoothies,Mango Passionfruit smoothie,148.0,197.0,-49.0,-0.2487,786.46,1141.83,-355.37,-0.3112
+Kilkenny Plus,Smoothies,Strawberry Dream,121.0,0.0,121.0,,668.99,0.0,668.99,
+Kilkenny Plus,Specials,Pink velvet (coffee),0.0,21.0,-21.0,-1.0,0.0,103.47,-103.47,-1.0
+Kilkenny Plus,Specials,Piñalada,0.0,109.0,-109.0,-1.0,0.0,558.08,-558.08,-1.0
+Kilkenny Plus,Specials,Straw Matcha,0.0,22.0,-22.0,-1.0,0.0,110.6,-110.6,-1.0
+Kilkenny Plus,Specials,Straw Matcha (excl boba),0.0,240.0,-240.0,-1.0,0.0,1166.57,-1166.57,-1.0
+Kilkenny Plus,Specials,Strawberry Matcha,14.0,0.0,14.0,,71.0,0.0,71.0,
+Kilkenny Plus,Specials,Strawberry Oat Matcha,247.0,0.0,247.0,,1292.2,0.0,1292.2,
+Kilkenny Plus,Specials,Strawberry red velvet milk t,0.0,5.0,-5.0,-1.0,0.0,18.72,-18.72,-1.0
+Kilkenny Plus,Specials,White Choc Matcha,81.0,0.0,81.0,,377.82,0.0,377.82,
+Kilkenny Plus,Specials,strawberry pinalada,0.0,6.0,-6.0,-1.0,0.0,30.6,-30.6,-1.0
+Portlaoise,Acai bowls & Smoothies,5€ Student acai,40.0,0.0,40.0,,201.8,0.0,201.8,
+Portlaoise,Acai bowls & Smoothies,Classic acai,1360.0,705.0,655.0,0.9291,11926.31,5947.41,5978.9,1.0053
+Portlaoise,Coffee & more,Americano,100.0,43.0,57.0,1.3256,339.04,150.5,188.54,1.2528
+Portlaoise,Coffee & more,Bueno iced latte,196.0,74.0,122.0,1.6486,1075.95,374.77,701.18,1.871
+Portlaoise,Coffee & more,Cappuccino,87.0,49.0,38.0,0.7755,356.36,180.87,175.49,0.9703
+Portlaoise,Coffee & more,Cinnamel Latte,0.0,3.0,-3.0,-1.0,0.0,9.3,-9.3,-1.0
+Portlaoise,Coffee & more,Dirty Chai,0.0,2.0,-2.0,-1.0,0.0,11.5,-11.5,-1.0
+Portlaoise,Coffee & more,Double Espresso,2.0,0.0,2.0,,7.0,0.0,7.0,
+Portlaoise,Coffee & more,Espresso,9.0,0.0,9.0,,22.5,0.0,22.5,
+Portlaoise,Coffee & more,Flat white,18.0,11.0,7.0,0.6364,68.1,39.25,28.85,0.735
+Portlaoise,Coffee & more,Hot Choc,7.0,3.0,4.0,1.3333,18.7,11.1,7.6,0.6847
+Portlaoise,Coffee & more,Iced Americano,7.0,4.0,3.0,0.75,25.91,20.8,5.11,0.2457
+Portlaoise,Coffee & more,Iced Latte,57.0,0.0,57.0,,213.6,0.0,213.6,
+Portlaoise,Coffee & more,Iced Vanilla cold cap,0.0,7.0,-7.0,-1.0,0.0,33.95,-33.95,-1.0
+Portlaoise,Coffee & more,Iced caramel latte,272.0,150.0,122.0,0.8133,1385.13,765.72,619.41,0.8089
+Portlaoise,Coffee & more,Iced latte (1),0.0,18.0,-18.0,-1.0,0.0,99.0,-99.0,-1.0
+Portlaoise,Coffee & more,Latte,73.0,48.0,25.0,0.5208,301.28,179.39,121.89,0.6795
+Portlaoise,Coffee & more,"Oat, Coconut Milk",1.0,1.0,0.0,0.0,0.49,0.37,0.12,0.3243
+Portlaoise,Coffee & more,Pistachio latte,12.0,40.0,-28.0,-0.7,60.95,200.9,-139.95,-0.6966
+Portlaoise,Coffee & more,T.Coconut BSug,0.0,5.0,-5.0,-1.0,0.0,26.05,-26.05,-1.0
+Portlaoise,Coffee & more,Tea,52.0,15.0,37.0,2.4667,130.6,37.5,93.1,2.4827
+Portlaoise,Coffee & more,Toasted brown sugar,94.0,70.0,24.0,0.3429,526.77,376.46,150.31,0.3993
+Portlaoise,Coffee & more,White chocolate mocha,109.0,42.0,67.0,1.5952,584.75,208.9,375.85,1.7992
+Portlaoise,Fruit tea,Apple Soda,20.0,3.0,17.0,5.6667,85.83,12.66,73.17,5.7796
+Portlaoise,Fruit tea,Apple lemonade tea,66.0,72.0,-6.0,-0.0833,272.4,279.57,-7.17,-0.0256
+Portlaoise,Fruit tea,Lemonade no boba medium,0.0,1.0,-1.0,-1.0,0.0,3.3,-3.3,-1.0
+Portlaoise,Fruit tea,Mango Iced Teas,0.0,2.0,-2.0,-1.0,0.0,6.1,-6.1,-1.0
+Portlaoise,Fruit tea,Mango Passion Lemonade,444.0,270.0,174.0,0.6444,1893.75,1083.0,810.75,0.7486
+Portlaoise,Fruit tea,Mango Soda (NEW),0.0,1.0,-1.0,-1.0,0.0,3.78,-3.78,-1.0
+Portlaoise,Fruit tea,Strawberry Lemonade,365.0,382.0,-17.0,-0.0445,1346.86,1431.12,-84.26,-0.0589
+Portlaoise,Fruit tea,Strawberry Nojito,27.0,0.0,27.0,,114.97,0.0,114.97,
+Portlaoise,Fruit tea,Strawberry Passion lemonade,74.0,57.0,17.0,0.2982,325.36,238.14,87.22,0.3663
+Portlaoise,Fruit tea,Watermelon Lemonade,198.0,36.0,162.0,4.5,836.44,139.61,696.83,4.9913
+Portlaoise,Fruit tea,mango passion Fruit Tea,0.0,14.0,-14.0,-1.0,0.0,70.3,-70.3,-1.0
+Portlaoise,Milk tea,Bueno Bliss Boba,196.0,87.0,109.0,1.2529,1044.99,431.26,613.73,1.4231
+Portlaoise,Milk tea,Earl Grey,24.0,2.0,22.0,11.0,132.85,9.5,123.35,12.9842
+Portlaoise,Milk tea,Honey Mango Latte,0.0,2.0,-2.0,-1.0,0.0,10.2,-10.2,-1.0
+Portlaoise,Milk tea,Matcha Latte,11.0,0.0,11.0,,41.84,0.0,41.84,
+Portlaoise,Milk tea,Matcha Latte (no boba),0.0,135.0,-135.0,-1.0,0.0,699.71,-699.71,-1.0
+Portlaoise,Milk tea,Oat matcha latte HOT (no boba),0.0,4.0,-4.0,-1.0,0.0,18.07,-18.07,-1.0
+Portlaoise,Milk tea,Original milk tea,178.0,188.0,-10.0,-0.0532,994.53,957.44,37.09,0.0387
+Portlaoise,Milk tea,Pistachio Crunch Latte,0.0,19.0,-19.0,-1.0,0.0,96.65,-96.65,-1.0
+Portlaoise,Milk tea,Pistachio Crunch Matcha,30.0,0.0,30.0,,165.26,0.0,165.26,
+Portlaoise,Milk tea,Strawberry Sunset,142.0,48.0,94.0,1.9583,786.91,223.2,563.71,2.5256
+Portlaoise,Milk tea,Strawberry milk tea,8.0,0.0,8.0,,36.04,0.0,36.04,
+Portlaoise,Milk tea,Taro milk tea,92.0,39.0,53.0,1.359,498.35,196.16,302.19,1.5405
+Portlaoise,Milk tea,Tiger Milk,111.0,39.0,72.0,1.8462,612.08,203.25,408.83,2.0115
+Portlaoise,Milk tea,Vanilla Matcha,223.0,0.0,223.0,,1258.85,0.0,1258.85,
+Portlaoise,Namo Plus,Cinnamon Bun Latte,0.0,1.0,-1.0,-1.0,0.0,5.4,-5.4,-1.0
+Portlaoise,Namo Plus,Starboy,350.0,267.0,83.0,0.3109,1463.0,1051.26,411.74,0.3917
+Portlaoise,Namo Plus Extras,Large,1.0,6.0,-5.0,-0.8333,0.9,5.4,-4.5,-0.8333
+Portlaoise,Smoothies,Dream,0.0,75.0,-75.0,-1.0,0.0,450.79,-450.79,-1.0
+Portlaoise,Smoothies,Mango Passionfruit smoothie,149.0,58.0,91.0,1.569,851.02,347.38,503.64,1.4498
+Portlaoise,Smoothies,Strawberry Dream,116.0,0.0,116.0,,668.57,0.0,668.57,
+Portlaoise,Specials,Enchiladas,0.0,5.0,-5.0,-1.0,0.0,51.37,-51.37,-1.0
+Portlaoise,Specials,Loaded Chipotle Wedges,71.0,25.0,46.0,1.84,700.26,263.62,436.64,1.6563
+Portlaoise,Specials,Pistachio Crunch Latte,1.0,0.0,1.0,,4.85,0.0,4.85,
+Portlaoise,Specials,Piñalada,0.0,24.0,-24.0,-1.0,0.0,117.9,-117.9,-1.0
+Portlaoise,Specials,Quesadilla,178.0,80.0,98.0,1.225,1990.84,826.92,1163.92,1.4075
+Portlaoise,Specials,Straw Matcha (excl boba),0.0,105.0,-105.0,-1.0,0.0,516.58,-516.58,-1.0
+Portlaoise,Specials,Strawberry Matcha,6.0,0.0,6.0,,33.05,0.0,33.05,
+Portlaoise,Specials,Strawberry Oat Matcha,119.0,0.0,119.0,,665.34,0.0,665.34,
+Portlaoise,Specials,Strawberry red velvet milk t,0.0,2.0,-2.0,-1.0,0.0,6.96,-6.96,-1.0
+Portlaoise,Specials,White Choc Matcha,103.0,0.0,103.0,,572.02,0.0,572.02,
+Portlaoise,Specials,strawberry pinalada,0.0,6.0,-6.0,-1.0,0.0,29.7,-29.7,-1.0
+Waterfordd,Acai bowls & Smoothies,Classic acai,473.0,0.0,473.0,,4095.0,0.0,4095.0,
+Waterfordd,Coffee & more,Americano,46.0,0.0,46.0,,156.62,0.0,156.62,
+Waterfordd,Coffee & more,Bueno iced latte,131.0,0.0,131.0,,701.6,0.0,701.6,
+Waterfordd,Coffee & more,Cappuccino,39.0,0.0,39.0,,161.1,0.0,161.1,
+Waterfordd,Coffee & more,Espresso,3.0,0.0,3.0,,5.0,0.0,5.0,
+Waterfordd,Coffee & more,Flat white,16.0,0.0,16.0,,60.6,0.0,60.6,
+Waterfordd,Coffee & more,Hot Choc,4.0,0.0,4.0,,12.15,0.0,12.15,
+Waterfordd,Coffee & more,Iced Americano,5.0,0.0,5.0,,17.05,0.0,17.05,
+Waterfordd,Coffee & more,Iced Latte,29.0,0.0,29.0,,122.17,0.0,122.17,
+Waterfordd,Coffee & more,Iced caramel latte,73.0,0.0,73.0,,385.66,0.0,385.66,
+Waterfordd,Coffee & more,Latte,37.0,0.0,37.0,,152.4,0.0,152.4,
+Waterfordd,Coffee & more,Pistachio latte,1.0,0.0,1.0,,5.3,0.0,5.3,
+Waterfordd,Coffee & more,Tea,11.0,0.0,11.0,,27.5,0.0,27.5,
+Waterfordd,Coffee & more,Toasted brown sugar,120.0,0.0,120.0,,656.1,0.0,656.1,
+Waterfordd,Coffee & more,White chocolate mocha,49.0,0.0,49.0,,273.54,0.0,273.54,
+Waterfordd,Fruit tea,Apple Soda,20.0,0.0,20.0,,87.21,0.0,87.21,
+Waterfordd,Fruit tea,Apple lemonade tea,65.0,0.0,65.0,,265.4,0.0,265.4,
+Waterfordd,Fruit tea,Mango Passion Lemonade,316.0,0.0,316.0,,1345.57,0.0,1345.57,
+Waterfordd,Fruit tea,Strawberry Lemonade,326.0,0.0,326.0,,1383.29,0.0,1383.29,
+Waterfordd,Fruit tea,Strawberry Nojito,15.0,0.0,15.0,,65.44,0.0,65.44,
+Waterfordd,Fruit tea,Strawberry Passion lemonade,55.0,0.0,55.0,,242.89,0.0,242.89,
+Waterfordd,Fruit tea,Watermelon Lemonade,162.0,0.0,162.0,,706.17,0.0,706.17,
+Waterfordd,Milk tea,Bueno Bliss Boba,148.0,0.0,148.0,,808.9,0.0,808.9,
+Waterfordd,Milk tea,Matcha Latte,11.0,0.0,11.0,,54.69,0.0,54.69,
+Waterfordd,Milk tea,Original milk tea,77.0,0.0,77.0,,425.56,0.0,425.56,
+Waterfordd,Milk tea,Pistachio Crunch Matcha,6.0,0.0,6.0,,31.07,0.0,31.07,
+Waterfordd,Milk tea,Strawberry Sunset,104.0,0.0,104.0,,570.79,0.0,570.79,
+Waterfordd,Milk tea,Strawberry milk tea,11.0,0.0,11.0,,58.35,0.0,58.35,
+Waterfordd,Milk tea,Taro milk tea,57.0,0.0,57.0,,318.18,0.0,318.18,
+Waterfordd,Milk tea,Tiger Milk,28.0,0.0,28.0,,159.68,0.0,159.68,
+Waterfordd,Milk tea,Vanilla Matcha,24.0,0.0,24.0,,128.81,0.0,128.81,
+Waterfordd,Namo Plus,Starboy,268.0,0.0,268.0,,1106.07,0.0,1106.07,
+Waterfordd,Smoothies,Mango Passionfruit smoothie,85.0,0.0,85.0,,487.83,0.0,487.83,
+Waterfordd,Smoothies,Strawberry Dream,151.0,0.0,151.0,,864.82,0.0,864.82,
+Waterfordd,Specials,Loaded Chipotle Wedges,90.0,0.0,90.0,,1041.54,0.0,1041.54,
+Waterfordd,Specials,Quesadilla,260.0,0.0,260.0,,2937.72,0.0,2937.72,
+Waterfordd,Specials,Strawberry Matcha,13.0,0.0,13.0,,73.75,0.0,73.75,
+Waterfordd,Specials,Strawberry Oat Matcha,118.0,0.0,118.0,,646.47,0.0,646.47,
+Waterfordd,Specials,White Choc Matcha,207.0,0.0,207.0,,1155.54,0.0,1155.54,
