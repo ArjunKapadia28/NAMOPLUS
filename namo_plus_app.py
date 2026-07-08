@@ -44,7 +44,7 @@ def load_square_file(uploaded):
         files.append((uploaded.name, uploaded))
     frames=[]
     for fname, fh in files:
-        df=pd.read_csv(fh, encoding='utf-16', sep='\t', low_memory=False)
+        df = pd.read_csv(fh)
         df.columns=(df.columns.str.strip().str.lower().str.replace(' ','_',regex=False).str.replace('-','_',regex=False))
         frames.append(df)
     return pd.concat(frames, ignore_index=True)
